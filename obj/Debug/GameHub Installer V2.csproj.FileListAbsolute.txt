@@ -1,0 +1,10 @@
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\bin\Debug\GameHub Installer V2.exe.config
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\bin\Debug\GameHub Installer V2.exe
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\bin\Debug\GameHub Installer V2.pdb
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\obj\Debug\GameHub Installer V2.csproj.AssemblyReference.cache
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\obj\Debug\GameHub_Installer_V2.Form1.resources
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\obj\Debug\GameHub_Installer_V2.Properties.Resources.resources
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\obj\Debug\GameHub Installer V2.csproj.GenerateResource.cache
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\obj\Debug\GameHub Installer V2.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\obj\Debug\GameHub Installer V2.exe
+C:\Users\olive\source\repos\GameHub Installer V2\GameHub Installer V2\obj\Debug\GameHub Installer V2.pdb
